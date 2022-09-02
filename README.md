@@ -14,4 +14,4 @@ Biznes savollar:
 7. Qaysi shaharda eng ko'p sotilgan?
 
 
-vizualizatsiya link: 
+vizualizatsiya link:  https://colab.research.google.com/drive/1DU_HRll88G6W-RtID6IABht3-jPpJE0B?usp=sharing
