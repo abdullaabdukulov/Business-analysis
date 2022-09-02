@@ -12,3 +12,6 @@ Biznes savollar:
 5. Qaysi vaqtlarda daromad unimi ko'proq?     
 6. Qaysi filial eng daromadli?     
 7. Qaysi shaharda eng ko'p sotilgan?
+
+
+vizualizatsiya link: 
