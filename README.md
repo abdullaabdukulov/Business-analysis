@@ -23,3 +23,6 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 
 <h3>Bunda qaysi filyaldan ko'proq foyda kelganini ko'rsak bo'ladi.</h3>
 <img width="1800" alt="image" src="https://user-images.githubusercontent.com/95611906/198262922-2a85e0a9-7f22-4989-bd74-f651d6933608.png">
+
+<h3>Bunda biz qaysi oyda eng ko'p foyda kelganini ko'rsak bo'ladi.</h3>
+<img width="1800" alt="image" src="https://user-images.githubusercontent.com/95611906/198266771-70617c40-84d3-4789-979d-25f4245dbf3e.png">
