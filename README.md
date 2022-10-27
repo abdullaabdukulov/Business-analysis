@@ -30,5 +30,8 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 <h3>Bu yerda 3 oydagi haftalik umumiy pul to'planmasi, bunda Chorshanba kuni savdo unimi yahshiligini yaqqol ko'rishimiz mumkin.</h3>
 <img width="1801" alt="image" src="https://user-images.githubusercontent.com/95611906/198268839-67fb28cb-0a66-4680-962f-bcb2b6fcb849.png">
 
-<h3></h3>
+<h3>Bu yerda biz 3 oy davomidagi xaridorlarning qaysi vaqtdalarda mahsulotlarni sotib olayotganini ko'rsak bo'ladi.</h3>
+
+<img width="1799" alt="Снимок экрана 2022-10-27 в 16 17 24" src="https://user-images.githubusercontent.com/95611906/198270755-c951f1d7-48e6-44ab-bb04-92aac0a4722e.png">
+
 
