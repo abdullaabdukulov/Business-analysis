@@ -38,7 +38,7 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 
 <img width="1798" alt="image" src="https://user-images.githubusercontent.com/95611906/198292343-085dda5b-370f-4f76-9d36-01d54dd8c919.png">
 
-<h3>Bu yerda biz 3 oy davomidagi xaridorlarni turining statistikasi ko'rishimiz mumkin.</h3>
+<h3>Bu yerda biz 3 oy davomidagi xaridorlarning turini statistikasi ko'rishimiz mumkin.</h3>
 
 <img width="1800" alt="image" src="https://user-images.githubusercontent.com/95611906/198294484-da39346e-1627-4512-b0a5-ab0b5bccc102.png">
 
@@ -46,3 +46,6 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 
 <img width="1801" alt="image" src="https://user-images.githubusercontent.com/95611906/198296589-c96711b5-b7f1-422b-a2b7-ce556377627c.png">
 
+<h3>Bu yerda biz xaridorlarnig to'lov turining statistikasini ko'rsak bo'adi.</h3>
+
+<img width="1799" alt="image" src="https://user-images.githubusercontent.com/95611906/198302205-0973e118-491f-4742-a9ca-3b286987434e.png">
