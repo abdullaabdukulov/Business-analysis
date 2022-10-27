@@ -37,3 +37,8 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 <h3>Bu yerda biz 3 oy davomidagi xaridorlarni jinsining statistikasi.</h3>
 
 <img width="1798" alt="image" src="https://user-images.githubusercontent.com/95611906/198292343-085dda5b-370f-4f76-9d36-01d54dd8c919.png">
+
+<h3>Bu yerda biz 3 oy davomidagi xaridorlarning turining statistikasi.</h3>
+
+<img width="1800" alt="image" src="https://user-images.githubusercontent.com/95611906/198294484-da39346e-1627-4512-b0a5-ab0b5bccc102.png">
+
