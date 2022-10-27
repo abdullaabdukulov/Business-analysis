@@ -15,3 +15,5 @@ Biznes savollar:
 
 
 vizualizatsiya link:  https://colab.research.google.com/drive/1DU_HRll88G6W-RtID6IABht3-jPpJE0B?usp=sharing
+
+<img width="1786" alt="Снимок экрана 2022-10-27 в 15 02 34" src="https://user-images.githubusercontent.com/95611906/198255852-6b341ca4-6a3a-458d-bc92-cabc1dd5f02c.png">
