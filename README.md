@@ -1,17 +1,19 @@
-Super_Market.Visualization
-Muallif: Abdulla Abduqulov 
-Sana: 2022 yil 5-iyul 
+<h1>Business Analysis</h1>
+<h3>Muallif: Abdulla Abduqulov</h3>
+<p1>
 Do'kon ma'lumotlarini tahlil qilish! Bizning vazifamiz biznes o'sishini kuchaytirish uchun SuperMarket uchun zaif joylar va imkoniyatlarni aniqlashdir.Do'kon - Myanmada joylashgan kichik chakana biznes. Ular Salomatlik va go'zallik, Elektron aksessuarlar, Uy va turmush tarzi, Sport va sayohat, Oziq-ovqat va ichimliklar, Moda aksessuarlari kabi bo'limlarga tegishli mahsulolar sotadilar va ularning mijozlari oddiy va maxsus xaridorlardan iborat. 
-Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lumotlari mavjud. Bizning vazifamiz biznes o'sishini kuchaytirish uchun Super Store uchun zaif joylar va imkoniyatlarni aniqlashdir.
+Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lumotlari mavjud. Bizning vazifamiz biznes o'sishini kuchaytirish uchun Super Store uchun zaif joylar va imkoniyatlarni aniqlashdir.</p1>
 
-Biznes savollar: 
-1. Qaysi kategoriya eng ko'p sotiladigan va eng foyda keltiradi? 
-2. Eng ko'p sotiladigan va eng daromadli  kategoriya qanday?  
-3. Eng ko'p sotiladigan pastki kategoriya qaysi?     
-4. Qaysi mijozlar segmenti eng foydali?     
-5. Qaysi vaqtlarda daromad unimi ko'proq?     
-6. Qaysi filial eng daromadli?     
-7. Qaysi shaharda eng ko'p sotilgan?
+<h6>Biznes savollar: </h6>
+<ol>
+<li>Qaysi kategoriya eng ko'p sotiladigan va eng foyda keltiradi? </li>
+<li>Eng ko'p sotiladigan va eng daromadli  kategoriya qanday?</li>
+<li>Eng ko'p sotiladigan pastki kategoriya qaysi?</li>
+<li>Qaysi mijozlar segmenti eng foydali?</li>
+<li>Qaysi vaqtlarda daromad unimi ko'proq?</li>
+<li>Qaysi filial eng daromadli?</li>
+<li>Qaysi shaharda eng ko'p sotilgan?</li>
+ </ol>
 
 
 vizualizatsiya link:  https://colab.research.google.com/drive/1DU_HRll88G6W-RtID6IABht3-jPpJE0B?usp=sharing
