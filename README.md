@@ -34,11 +34,15 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 
 <img width="1798" alt="image" src="https://user-images.githubusercontent.com/95611906/198271390-174d708d-804e-4f33-8a0c-7f12f1d13f0a.png">
 
-<h3>Bu yerda biz 3 oy davomidagi xaridorlarni jinsining statistikasi ko'rishimi mumkin.</h3>
+<h3>Bu yerda biz 3 oy davomidagi xaridorlarni jinsining statistikasi ko'rishimiz mumkin.</h3>
 
 <img width="1798" alt="image" src="https://user-images.githubusercontent.com/95611906/198292343-085dda5b-370f-4f76-9d36-01d54dd8c919.png">
 
-<h3>Bu yerda biz 3 oy davomidagi xaridorlarni turining statistikasi ko'rishimi mumkin.</h3>
+<h3>Bu yerda biz 3 oy davomidagi xaridorlarni turining statistikasi ko'rishimiz mumkin.</h3>
 
 <img width="1800" alt="image" src="https://user-images.githubusercontent.com/95611906/198294484-da39346e-1627-4512-b0a5-ab0b5bccc102.png">
+
+<h3>Bu doimiy va birmartalik mijozlarning qaysi tavarlarni harid qilishi statistikasi ko'rishimiz mumkin.</h3>
+
+<img width="1801" alt="image" src="https://user-images.githubusercontent.com/95611906/198296589-c96711b5-b7f1-422b-a2b7-ce556377627c.png">
 
