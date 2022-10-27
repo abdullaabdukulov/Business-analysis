@@ -1,5 +1,4 @@
-<h1>Business Analysis</h1> ![image](https://user-images.githubusercontent.com/95611906/198259324-31678006-2288-448f-b47e-6ec2866e2d19.png)
-
+<h1>Business Analysis</h1>
 <h3>Muallif: Abdulla Abduqulov</h3>
 <p1>
 Do'kon ma'lumotlarini tahlil qilish! Bizning vazifamiz biznes o'sishini kuchaytirish uchun SuperMarket uchun zaif joylar va imkoniyatlarni aniqlashdir.Do'kon - Myanmada joylashgan kichik chakana biznes. Ular Salomatlik va go'zallik, Elektron aksessuarlar, Uy va turmush tarzi, Sport va sayohat, Oziq-ovqat va ichimliklar, Moda aksessuarlari kabi bo'limlarga tegishli mahsulolar sotadilar va ularning mijozlari oddiy va maxsus xaridorlardan iborat. 
