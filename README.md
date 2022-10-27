@@ -29,3 +29,6 @@ Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lum
 
 <h3>Bu yerda 3 oydagi haftalik umumiy pul to'planmasi, bunda Chorshanba kuni savdo unimi yahshiligini yaqqol ko'rishimiz mumkin.</h3>
 <img width="1801" alt="image" src="https://user-images.githubusercontent.com/95611906/198268839-67fb28cb-0a66-4680-962f-bcb2b6fcb849.png">
+
+<h3></h3>
+
