@@ -2,7 +2,7 @@
 <h3>Muallif: Abdulla Abduqulov</h3>
 <p1>
 Do'kon ma'lumotlarini tahlil qilish! Bizning vazifamiz biznes o'sishini kuchaytirish uchun SuperMarket uchun zaif joylar va imkoniyatlarni aniqlashdir.Do'kon - Myanmada joylashgan kichik chakana biznes. Ular Salomatlik va go'zallik, Elektron aksessuarlar, Uy va turmush tarzi, Sport va sayohat, Oziq-ovqat va ichimliklar, Moda aksessuarlari kabi bo'limlarga tegishli mahsulolar sotadilar va ularning mijozlari oddiy va maxsus xaridorlardan iborat. 
-Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lumotlari mavjud. Bizning vazifamiz biznes o'sishini kuchaytirish uchun Super Store uchun zaif joylar va imkoniyatlarni aniqlashdir.</p1>
+Ma'lumotlar to'plamida sotuvlar bo'limi, foyda va buyurtmalarning har xil ma'lumotlari mavjud.</p1>
 
 <h5>Biznes savollar: </h5>
 <ol>
